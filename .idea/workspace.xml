@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1eaaa60f-0b90-4094-9c11-64b4037a81d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HannahsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/CAR 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/CARSSS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/car-black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/car-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/car-perfect.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/car4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/static/images/carabout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastRunners/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HannahsProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HannahsProject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HannahsProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HannahsProject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HannahsProject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/About_us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Cars_listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Contact_Us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/User _Registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/User_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cars_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/templates/master.html" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pOcMsbsEPvpY4nwQF6qFd6KwXR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.HannahsProject.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Payment.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.User _Registration.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.master.html.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/HannahsProject/FastRunners/static/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\HannahsProject\FastRunners\static\images" />
+      <recent name="C:\Users\HP\PycharmProjects\HannahsProject\FastRunners\static\images\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\HannahsProject\FastRunners\static\css" />
+      <recent name="C:\Users\HP\PycharmProjects\HannahsProject\FastRunners\static\images" />
+      <recent name="C:\Users\HP\PycharmProjects\HannahsProject\templates\images" />
+      <recent name="C:\Users\HP\PycharmProjects\HannahsProject\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Payment.html">
+    <configuration name="Payment.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HannahsProject/templates/Payment.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="User _Registration.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HannahsProject/templates/User _Registration.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="master.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HannahsProject/templates/master.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="HannahsProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="HannahsProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="HannahsProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Payment.html" />
+        <item itemvalue="JavaScript Debug.master.html" />
+        <item itemvalue="JavaScript Debug.User _Registration.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eaaa60f-0b90-4094-9c11-64b4037a81d1" name="Changes" comment="" />
+      <created>1732640517624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732640517624</updated>
+      <workItem from="1732640518707" duration="1318000" />
+      <workItem from="1732642077777" duration="374000" />
+      <workItem from="1732642865931" duration="24000" />
+      <workItem from="1732642936631" duration="34000" />
+      <workItem from="1732643112024" duration="296000" />
+      <workItem from="1732679628809" duration="54000" />
+      <workItem from="1732679703075" duration="3552000" />
+      <workItem from="1732871892386" duration="77000" />
+      <workItem from="1732979316675" duration="4849000" />
+      <workItem from="1732985413577" duration="23000" />
+      <workItem from="1732985454341" duration="22000" />
+      <workItem from="1732985512499" duration="9000" />
+      <workItem from="1732985528338" duration="172000" />
+      <workItem from="1732988700825" duration="4068000" />
+      <workItem from="1732998949779" duration="718000" />
+      <workItem from="1732999773703" duration="2332000" />
+      <workItem from="1733025205928" duration="4122000" />
+      <workItem from="1733030338462" duration="3219000" />
+      <workItem from="1733034163073" duration="428000" />
+      <workItem from="1733059585297" duration="1071000" />
+      <workItem from="1733060915429" duration="2746000" />
+      <workItem from="1733079986746" duration="1405000" />
+      <workItem from="1733081714005" duration="3764000" />
+      <workItem from="1733110421197" duration="7549000" />
+      <workItem from="1733166983679" duration="4484000" />
+      <workItem from="1733212922307" duration="1441000" />
+      <workItem from="1733215181278" duration="10689000" />
+      <workItem from="1733283578893" duration="6000" />
+      <workItem from="1733429127139" duration="42000" />
+      <workItem from="1733476382530" duration="6922000" />
+      <workItem from="1733506867772" duration="78000" />
+      <workItem from="1733506985107" duration="146000" />
+      <workItem from="1733507158320" duration="976000" />
+      <workItem from="1733509209809" duration="3251000" />
+      <workItem from="1733559694130" duration="18606000" />
+      <workItem from="1733586415403" duration="4551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FastRunners/views.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

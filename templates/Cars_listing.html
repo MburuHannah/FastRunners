@@ -1,0 +1,28 @@
+{% extends 'master.html' %}
+{% load static %}
+
+{% block title %}Cars Listing{% endblock %}
+
+{% block body %}
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+    <div class="container-fluid ">
+    
+        <h2 class="animate__animated__animate__zoomIn" style="color:#0A5EB0">Explore Our Energy-Saving Cars</h2>
+    </div>
+    <div>
+
+        <p style="color: #0A5EB0" >Welcome to the FastRunners Car Listings page, where innovation meets sustainability. Our exclusive range of
+            energy-efficient cars is designed to provide exceptional performance while minimizing environmental impact.
+            Browse through our collection and find the perfect car that suits your needs and helps you contribute to a
+            greener planet.
+        </p>
+    </div>
+    <ul class="list-group">
+        {% for car in cars %}
+            <li class="list-group-item">{{ car.name }} - {{ car.model }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
